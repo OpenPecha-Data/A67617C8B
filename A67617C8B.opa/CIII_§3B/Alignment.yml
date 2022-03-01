@@ -1,0 +1,13 @@
+segment_sources:
+  P1FCBCCCD:
+    type: origin_type
+    relation: translation
+    language: bo
+  P4735AA5C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  7b51f58face443ca92fdcd82fcf6fdcb:
+    P1FCBCCCD: d6390378119e4b9390da13eaa4779eea
+    P4735AA5C: 0f1b01b884de48cd8536dadfdf5f0453
